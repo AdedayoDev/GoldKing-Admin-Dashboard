@@ -1,5 +1,6 @@
 import { ArrowLeftCircle } from "lucide-react";
 import Link from "next/link";
+
 interface BackButtonProps {
     text: string;
     link: string;
